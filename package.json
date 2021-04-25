@@ -1,0 +1,19 @@
+{
+  "name": "lwc-otp",
+  "version": "1.0.0",
+  "description": "OTP codes in a LWC",
+  "main": "index.js",
+  "repository": "https://github.com/Dogeforce/lwc-otp",
+  "author": "Renato Oliveira <renato.oliveira@dogeforce.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "jssha": "^3.2.0",
+    "webpack": "^5.35.1"
+  }
+}
