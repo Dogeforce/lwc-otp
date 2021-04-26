@@ -4,6 +4,16 @@ This component adds an OTP generator in a record page of your choice. Assuming t
 
 Library used to calculate the code is the [jsOTP](https://github.com/jiangts/JS-OTP/).
 
+## Screenshots
+
+### When there's plenty of seconds to copy and paste the code elsewhere
+
+![plenty of time](img/otp.png)
+
+### When time is running out
+
+![time running out](img/otp_warn.png)
+
 ## API
 
 |Attribute|Description|
