@@ -1,5 +1,7 @@
 # LWC OTP
 
+[Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/app/githubdeploy/Dogeforce/lwc-otp)
+
 This component adds an OTP generator in a record page of your choice. Assuming the secret is stored in a field, that is.
 
 Library used to calculate the code is the [jsOTP](https://github.com/jiangts/JS-OTP/).
